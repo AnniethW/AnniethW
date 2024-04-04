@@ -5,12 +5,16 @@
 - [Active Directiory home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Hello World](https://www.youtube.com/watch?v=uHy3oM7NnoU)
 
-<h2>📺 Certifications </h2> (https://coursera.org/share/638379df243683bee4fcaee4fee41966)
+<h2>📺 Certifications </h2> 
+
+- [Google Cybersecurity](https://coursera.org/share/638379df243683bee4fcaee4fee41966)
+- [Prompt Engineering Specialization - Pending](https://coursera.org/share/638379df243683bee4fcaee4fee41966)
+
 
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directiory home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
-  
+
 
 <h2> 🤳 Connect with me:</h2>
 
